@@ -3,7 +3,9 @@
   content: ["./**/*.{html,js}"],
     theme: {
       extend: {
-        backgroupdImage: {
+        backgroundImage: {
+            "home": "url('/assets/rest.png')"
+        }
       },
     },
     plugins: [],
