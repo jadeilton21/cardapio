@@ -4,7 +4,7 @@
     theme: {
       extend: {
         backgroundImage: {
-            "home": "url('/assets/rest.png')"
+            "home": "url('/assets/capa.png')"
         }
       },
     },
